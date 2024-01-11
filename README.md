@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Lydia Ye, from beijing China!
+
+- 🌱 I'm a sophomore at Grinnell College, double majoring Computer Science and Mathematics.
+- 🤔 I’m currently looking for a summer intership on software engineering.
+- 📫 You can reach me via yezi@grinnell.edu
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love dance and film photography!
+
+
 <!--
 **Lydia-Ye/Lydia-Ye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
